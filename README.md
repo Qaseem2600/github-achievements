@@ -23,3 +23,4 @@
 - PR 22 with correct email
 - PR 23 with correct email
 - PR 24 with correct email
+- PR 25 with correct email
