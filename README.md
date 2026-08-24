@@ -30,3 +30,4 @@
 - PR 29 with correct email
 - PR 30 with correct email
 - PR 31 with correct email
+- PR 32 with correct email
